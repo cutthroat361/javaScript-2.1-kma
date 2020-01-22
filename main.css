@@ -1,0 +1,165 @@
+
+.text{
+	position: absolute;
+	width:	80%;
+	
+}
+
+body {
+  background-color: lightgray;
+}
+
+.label{
+	
+
+	}
+	
+input{
+	color:gray;
+	font-size: 30px;
+	text-align: center;
+	border-radius: 7%;
+	border: outset 5px;
+}
+
+.cancel{
+	position: relative;
+	 
+	left:90px;
+	font-size: 20px;
+	float:right;
+	color: white;
+	background-color: red;
+	border-radius: 25%;
+}
+
+.bought{
+	position: relative;
+	
+	left:-30px;
+	font-size: 20px;
+	float:right;
+	border-radius: 15%;
+}
+
+.b1{
+	position: absolute;
+	color:white;
+	font-size: 30px;
+	background-color: #0065c9;
+	right:0px;
+	
+}
+
+.goodAmount{
+	position: relative;
+	 top: 25px;
+	left:0px;
+	font-size: 30px;
+	text-align: center;
+}
+
+.increase{
+	background-color: #00ff11;
+	font-size: 20px;
+	border-radius: 50%;
+	color: white;
+	 text-align: center;
+
+}
+
+.decrease{
+	
+	font-size: 20px;
+	border-radius: 50%;
+	color: white;
+	background-color: #ff0318;
+	 text-align: center;
+}
+
+.buyGood{
+	font-size: 30px;
+	text-align: right;
+	
+}
+
+.goodName{
+	position: relative;
+	text-align: left;
+	font-size: 30px;
+	top:50px;
+	
+}
+.сroosed{
+position: relative;
+	top: 10px; 
+	left:0px;
+}
+.left{
+	background-color: white;
+	position: absolute;
+	left: 5%;
+	border:	none;
+	width:	45%;
+	height:	20%;
+	top: 60px;
+	border-radius: 2%;
+	
+	-webkit-box-shadow: 0px 0px 50px -16px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 0px 50px -16px rgba(0,0,0,0.75);
+	box-shadow: 0px 0px 50px -16px rgba(0,0,0,0.75);
+}
+.right{
+	background-color: white;
+  position: absolute;
+  right: 5%;
+  width: 40%;
+  top: 60px;
+  border: none;
+  padding: 10px;
+  border-radius: 2%;
+  	-webkit-box-shadow: 0px 0px 50px -16px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 0px 50px -16px rgba(0,0,0,0.75);
+	box-shadow: 0px 0px 50px -16px rgba(0,0,0,0.75);
+}
+
+.lefthere{
+	font-size: 30px;
+	text-align: left;
+}
+
+.boughtme{
+	font-size: 30px;
+	text-align: left;
+}
+
+.goodsLeftCount{
+	  background-color: orange; /* Green */
+  border: none;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin: 4px 2px;
+  cursor: pointer;
+  
+  border-radius: 50%;
+/*font-size: 20px;
+	border-radius: 50%;
+	color: black;
+	background-color: orange;
+	 text-align: center;
+	  padding: 10px; */
+}
+
+.title{
+background:	lightgray;
+width:	80px;
+height:	20px;
+font-size:	20px;
+margin:	5px;border-radius: 15%;
+}
+/*font-size: 30px;
+color:red; */
